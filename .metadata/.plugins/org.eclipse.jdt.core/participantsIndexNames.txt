@@ -1,0 +1,5 @@
+INDEX VERSION 1.131
+/home/me/Desktop/liferayUniTest-2/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/3312192528.index
+/gradebook-web/src/main/java
+/home/me/Desktop/liferayUniTest-2/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/2440558999.index
+/gradebook-web/src/main/java

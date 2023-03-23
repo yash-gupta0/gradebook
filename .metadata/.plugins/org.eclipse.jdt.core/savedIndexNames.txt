@@ -1,0 +1,17 @@
+INDEX VERSION 1.131+/home/me/Desktop/liferayUniTest-2/.metadata/.plugins/org.eclipse.jdt.core
+905840143.index
+2214703484.index
+1032535441.index
+4128289302.index
+1343211779.index
+4005079332.index
+2767855472.index
+2424548460.index
+2015205794.index
+356957632.index
+1061230622.index
+1450461562.index
+535515653.index
+3351961819.index
+1575386008.index
+669941770.index

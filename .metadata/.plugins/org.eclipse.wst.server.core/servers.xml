@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<servers>
+  <server auto-publish-time="0" hostname="localhost" id="gradebook-workspace" id-set="true" name="gradebook-workspace" runtime-id="gradebook-workspace" server-type="com.liferay.ide.server.portal" server-type-id="com.liferay.ide.server.portal" start-timeout="900" stop-timeout="300" timestamp="0"/>
+  <server auto-publish-time="0" hostname="localhost" id="Liferay 7.x " name="Liferay 7.x " runtime-id="gradebook-workspace" server-type="com.liferay.ide.server.portal" server-type-id="com.liferay.ide.server.portal" start-timeout="900" stop-timeout="300" timestamp="2">
+    <list key="modules" value0="gradebook-api::com.liferay.ide.project.core.bundleFactory:gradebook-api::liferay.bundle::1.0" value1="gradebook-service::com.liferay.ide.project.core.bundleFactory:gradebook-service::liferay.bundle::1.0" value2="gradebook-web::com.liferay.ide.project.core.bundleFactory:gradebook-web::liferay.bundle::1.0"/>
+  </server>
+</servers>

@@ -1,0 +1,5 @@
+package com.liferay.training.gradebook.web.display.context;
+
+public class AssignmentsManagementToolbarDisplayContext {
+
+}
